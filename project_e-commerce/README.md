@@ -2,7 +2,8 @@
 ### Технологический Stack использованный в проекте:
 ![python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&)
 ![gitlab](https://img.shields.io/badge/-gitlab-090909?style=for-the-badge&logo=gitlab&)
-
+#### Использованные библиотеки:
+- Pandas, seaborn, matplotlib.pyplot, requests, json, datetime , calendar, urlencode.
 ### Основные цели:
 Проанализировать данные и ответить на следующие вопросы:
 1. Сколько у нас пользователей, которые совершили покупку только один раз?

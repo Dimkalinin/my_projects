@@ -3,14 +3,15 @@
 ![python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&)
 ![MySQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=MySQL&)
 ![gitlab](https://img.shields.io/badge/-gitlab-090909?style=for-the-badge&logo=gitlab&)
-### Основные цели:
-1. Определение метрик;
-2. Статистический анализ различий в показателях;
-3. Решение о запуске новой механики.
+
+#### Использованные библиотеки:
+- Pandas, numpy, seaborn, matplotlib.pyplot, pingouin, scipy.stats, requests, urlencode, json.
+### Основная цель:
+- Решение о принятии новой механики оплаты на всех пользователей.
 
 ### Полученные результаты:
 
-1. Основные метрики: ARPU, ARPPU, CR;
+1. Определил основные метрики: ARPU, ARPPU, CR;
 
 2. В ходе анализа данных полученных при эксперименте, можно выделить следующие выводы: 
 - Баг в системе сплитования - процентное соотношение пользователей в тестовой и контрольной группе значительно различается.
